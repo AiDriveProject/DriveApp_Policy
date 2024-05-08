@@ -1,6 +1,6 @@
 Privacy Policy
 
-E2mars Ecosystem ("us", "we", or "our") operates the [E2mars Taxi Driver] mobile application (hereinafter referred to as the "App").
+E2mars Ecosystem ("us", "we", or "our") operates the [E2mars Taxi Driver]/[E2mars Taxi Rider] mobile application (hereinafter referred to as the "App").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App and the choices you have associated with that data.
 
