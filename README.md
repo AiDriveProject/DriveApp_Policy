@@ -36,8 +36,8 @@ Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of [Date].
+This policy is effective as of 4/8/2024.
 
 Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Your Contact Information].
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at info@e2mars.com.
